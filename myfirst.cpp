@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     cout<<"helloWord"<<endl;
-int pause;cin>>pause;
+
+    system("pause");
     return 0;
 }
