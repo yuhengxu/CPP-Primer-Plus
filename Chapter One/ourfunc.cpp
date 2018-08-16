@@ -15,7 +15,6 @@ int main()
     
     system("pause");
     return 0;
-
 }
 
 void simon(int n)                   //define the simon() function
